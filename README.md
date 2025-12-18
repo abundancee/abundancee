@@ -1,14 +1,10 @@
-# Oh, Hello there.
-I am Abundance, Ab for short👋🏾
-I have been AWOL for a while.
-So there is literally nothing to see here for now but welcome anyways. I am back!.
+# Oh, Hello there👋🏾.
+I am Abundance, or Yutaka (In Japanesse)
 
-I really hope to do more soon!
 
-Check out my socials from my [linktree](https://linktr.ee/abundancec)
+Check out my socials from my [linktree](https://linktr.ee/abundancec), [my email address](abbydeew@gmail.com) and my [resume](https://docs.google.com/document/d/1touYNJLgmpMfk6yj6jvHa9sAQPhcNRXm/edit?usp=sharing&ouid=115071977622267851739&rtpof=true&sd=true)
 
-I am a junior Software Engineer, a Blockchain Ethusiast, a Mechanical Engineer in view and a Content Creator. 
-Currently an IT student at [Value Jet](https://flyvaluejet.com/) [A Fly for Value Aviation Company)
+I am a Frontend Developer, a Mechanical Engineer and an aspiring Web3 Developer. 
 I am very passionate about gaining knowledge until I am good enough to give out. 
 
 <br />
@@ -33,21 +29,26 @@ I am very passionate about gaining knowledge until I am good enough to give out.
 - 😎 Ex Community Lead of [Blockchain Mata Alex Ekwueme Federal University](https://blockchainmata.io).
 - 👩 Ex Developer community lead at [X](X.com).
 - 🙂 Ex Campus Ambassador at XRPL.
+- 😊 Ex Intern ValueJet Aviation Company Limited.
+- 😭 Now Jobless
 
 **💡  FUN FACTS**
 - 🤓 I wear glasses and I love them.
 - 🌱 I love Web 3.0 as much as I love myself and bread 😂😂.
 - ☠  Learning to code again. We learn everyday so why not?.
+- ✈️ I love love Aeroplanes.
+- 🤎 My current favorite color is brown, I might go back to pink, who knows?
 
 **❤️ MANTRA**
 : 🙏Everything that belogs to me is coming to Me.
 
-**🔍 QUEST**
-- 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Frontend Engineer (Junior level).
-- 📫 Here's a link to my little CV (https://drive.google.com/file/d/1Plw2I3P8floUghDyr5qaKjNiBAjEj4YP/view)
-- 😁 I can also be contacted through [my mail](abbydeew@gmail.com)
+**❤️ QUOTE**
+: 🙏Ichi-go Ichi-e.
 
+**🔍 QUEST**
+- 💼 Job interests: Frontend Development, Hackathons.
+
+  
 ---
 <p>
 <h2>🏆 Github Trophy </h2>
