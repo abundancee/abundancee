@@ -2,7 +2,7 @@
 I am Abundance, or Yutaka (In Japanesse)
 
 
-Check out my socials from my [linktree](https://linktr.ee/abundancec), [my email address](abbydeew@gmail.com) and my [resume](https://docs.google.com/document/d/1touYNJLgmpMfk6yj6jvHa9sAQPhcNRXm/edit?usp=sharing&ouid=115071977622267851739&rtpof=true&sd=true)
+Check out my socials from my [linktree](https://linktr.ee/abundancec), my [email](abbydeew@gmail.com) address and my [resume](https://docs.google.com/document/d/1touYNJLgmpMfk6yj6jvHa9sAQPhcNRXm/edit?usp=sharing&ouid=115071977622267851739&rtpof=true&sd=true)
 
 I am a Frontend Developer, a Mechanical Engineer and an aspiring Web3 Developer. 
 I am very passionate about gaining knowledge until I am good enough to give out. 
