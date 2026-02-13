@@ -52,12 +52,12 @@ I am very passionate about gaining knowledge until I am good enough to give out.
 ---
 <p>
 <h2>🏆 Github Trophy </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=A-bee01">
+<img src="https://github-profile-trophy.vercel.app/?username=abundancee">
 </p>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=A-bee01&show_icons=true&include_all_commits=true&hide_border=true" alt="Abundance's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bee01&langs_count=8&layout=compact&hide_border=true" alt="Abundance's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abundancee&show_icons=true&include_all_commits=true&hide_border=true" alt="Yutaka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abundancee&langs_count=8&layout=compact&hide_border=true" alt="Yutaka's GitHub stats" /> |
 | ------------- | ------------- |
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tech_Girl&layout=compact)
-![Ab's Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=A-bee01&layout=compact&include_all_commits=true&&count_private=true&langs_count=20)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yutaka&layout=compact)
+![Yutaka's Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=abundancee&layout=compact&include_all_commits=true&&count_private=true&langs_count=20)
 
