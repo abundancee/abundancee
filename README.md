@@ -77,10 +77,10 @@ frontend developer • mechanical engineer • web3 builder • contect creator 
 
 ---
 
-## 🏆 trophies (because why not)
+## 🏆 highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abundancee&theme=flat&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abundancee&show_icons=true&hide_border=true" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ frontend developer • mechanical engineer • web3 builder • contect creator 
 ## 🎯 what i am open to
 
 - 💼 frontend roles (remote / onsite)
-- 🌐 web3 internships / junior roles
+- 🌐 web3 internships
 - 🏆 hackathons & collabs
 
 ---
