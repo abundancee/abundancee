@@ -14,11 +14,9 @@ I am very passionate about gaining knowledge until I am good enough to give out.
 
 <p align="center">
 <a href="https://wakatime.com/@0752a885-f7f3-415d-8cf6-a700ac87be7d"><img src="https://wakatime.com/badge/user/0752a885-f7f3-415d-8cf6-a700ac87be7d.svg" alt="Total time coded since Aug 31 2022"/></a>
- <a href="https://twitter.com/ab_undance">
-    <img src="https://img.shields.io/twitter/follow/ab_undance?label=followers&logo=twitter&color=%23007ec6&style=plastic"/> 
-  </a>
+
   <a href="https://github.com/A-bee01">
-    <img src="https://img.shields.io/github/followers/A-bee01?logo=github&style=plastic"/> 
+    <img src="https://img.shields.io/github/followers/abundancee?logo=github&style=plastic"/> 
   </a>
 </p>
 <hr />
@@ -28,14 +26,13 @@ I am very passionate about gaining knowledge until I am good enough to give out.
 - 😊 Pronouns: She/Her
 - 😎 Ex Community Lead of [Blockchain Mata Alex Ekwueme Federal University](https://blockchainmata.io).
 - 👩 Ex Developer community lead at [X](X.com).
-- 🙂 Ex Campus Ambassador at XRPL.
-- 😊 Ex Intern ValueJet Aviation Company Limited.
-- 😭 Now Jobless
+- 🙂 Ex Campus Ambassador at [XRPL](XRPL.org).
+- 😊 Ex Intern [ValueJet Aviation Company Limited](https://flyvaluejet.com/).
+- 😭 Now Jobless, but building my Start Up [Cardra](Cardra.tech)
 
 **💡  FUN FACTS**
-- 🤓 I wear glasses and I love them.
+- 🤓 I wear glasses, and I love them.
 - 🌱 I love Web 3.0 as much as I love myself and bread 😂😂.
-- ☠  Learning to code again. We learn everyday so why not?.
 - ✈️ I love love Aeroplanes.
 - 🤎 My current favorite color is brown, I might go back to pink, who knows?
 
