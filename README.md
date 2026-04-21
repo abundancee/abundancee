@@ -14,7 +14,7 @@ frontend developer • mechanical engineer • web3 builder • contect creator 
 
 ## ✨ about me
 
-- 👩🏾‍💻 frontend developer (html / css / javascript / bootstrap / react / next / tailwind / solidity)
+- 👩🏾‍💻 frontend developer (html / css / javascript / version control / bootstrap / react / next / tailwind / solidity)
 - ⚙️ mechanical engineering undergraduate  
 - 🌐 building in public  
 - 🚀 currently building **Cardra** 
